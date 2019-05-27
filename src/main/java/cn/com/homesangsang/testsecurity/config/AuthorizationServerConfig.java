@@ -1,5 +1,6 @@
 package cn.com.homesangsang.testsecurity.config;
 
+import cn.com.homesangsang.testsecurity.service.DefaultClientDetailService;
 import cn.com.homesangsang.testsecurity.service.DefaultUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
